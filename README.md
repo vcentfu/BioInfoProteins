@@ -13,14 +13,13 @@ Pour mieux comprendre le projet et les algorithmes mis en place : voir le rappor
 	copyright = {Licence Etalab},
 	shorttitle = {Méthodes de détection des similarités structurales},
 	url = {https://www.theses.fr/2005PA066571},
-	urldate = {},
 	school = {Paris 6},
 	author = {Carpentier, Mathilde},
 	collaborator = {Netter, Pierre},
 	month = jan,
 	year = {2005},
 	keywords = {Alignement structural multiple, Motifs structuraux communs, recherche, Protéines, familles structurales, Protéines, structure, Structures protéiques, classification},
-	annote = {Sous la direction de  Pierre Netter. Soutenue en 2005,à Paris 6 .},
+	annote = {Sous la direction de Pierre Netter. Soutenue en 2005, à Paris 6.},
 }
 ```  
   
