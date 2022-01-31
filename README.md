@@ -4,7 +4,7 @@ Projet en Bioinformatique sur l'identification des motifs structuraux des proté
   
 Pour mieux comprendre le projet et les algorithmes mis en place : voir le rapport et les ressources à disposition.
 
-# Références  
+## Références  
   
 ```
 @phdthesis{carpentier_methodes_2005,
@@ -22,6 +22,17 @@ Pour mieux comprendre le projet et les algorithmes mis en place : voir le rappor
 	keywords = {Alignement structural multiple, Motifs structuraux communs, recherche, Protéines, familles structurales, Protéines, structure, Structures protéiques, classification},
 	annote = {Sous la direction de  Pierre Netter. Soutenue en 2005,à Paris 6 .},
 }
+```  
+  
+## Instructions  
+  
+Entrez sur le terminal et suivez les instructions indiquées :  
+  
 ```
-
+python main.py
+```  
+  
+## Visualisation avec PyMOL (exemple)  
+  
+![Résultats](./example.png "Identification des motifs sur les protéines 1gjm et 3cpp") 
 
