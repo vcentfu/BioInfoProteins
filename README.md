@@ -35,5 +35,4 @@ python main.py
 
 Les motifs structuraux similaires sont représentés par les classes de couleurs (vert et rose dans l'exemple).  
     
-![Résultats](./example.png "Identification des motifs sur les protéines 1gjm et 3cpp") 
-
+![Résultats](./example.png "Identification des motifs sur les protéines 1gjm et 3cpp")
